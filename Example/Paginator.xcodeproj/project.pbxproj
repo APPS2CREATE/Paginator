@@ -288,11 +288,11 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-Paginator_Example/Pods-Paginator_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Paginator/Paginator.framework",
+				"${BUILT_PRODUCTS_DIR}/ADPaginator/ADPaginator.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Paginator.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ADPaginator.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

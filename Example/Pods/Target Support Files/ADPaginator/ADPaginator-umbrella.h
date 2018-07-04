@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double PaginatorVersionNumber;
-FOUNDATION_EXPORT const unsigned char PaginatorVersionString[];
+FOUNDATION_EXPORT double ADPaginatorVersionNumber;
+FOUNDATION_EXPORT const unsigned char ADPaginatorVersionString[];
 

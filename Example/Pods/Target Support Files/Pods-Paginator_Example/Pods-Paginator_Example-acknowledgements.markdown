@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## Paginator
+## ADPaginator
 
 Copyright (c) 2018 AdamsDevelopment <s.adams@hotmail.be>
 

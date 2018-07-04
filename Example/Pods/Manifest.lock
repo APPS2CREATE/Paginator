@@ -1,16 +1,16 @@
 PODS:
-  - Paginator (0.1.0)
+  - ADPaginator (0.1.1)
 
 DEPENDENCIES:
-  - Paginator (from `../`)
+  - ADPaginator (from `../`)
 
 EXTERNAL SOURCES:
-  Paginator:
+  ADPaginator:
     :path: ../
 
 SPEC CHECKSUMS:
-  Paginator: e39b7c63a2232718edcc78065a8f6342301cb152
+  ADPaginator: f69637004083e162258a8e1a20fc1b8bdbff2d02
 
-PODFILE CHECKSUM: 019d124de5542505831bf8abdd342a43e904adc2
+PODFILE CHECKSUM: bf42d402d91e3146b543f254ba87569eb1145b41
 
 COCOAPODS: 1.4.0

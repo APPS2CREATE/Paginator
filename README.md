@@ -79,4 +79,4 @@ AdamsDevelopment, s.adams@hotmail.be
 
 ## License
 
-Paginator is available under the MIT license. See the LICENSE file for more info.
+Paginator is available under the MIT license. See the [LICENSE](https://github.com/AdamsDevelopment/Paginator/blob/master/LICENSE) file for more info.
