@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'Paginator'
+  s.name             = 'ADPaginator'
   s.version          = '0.1.0'
   s.summary          = 'Paginator - paging view'
 
