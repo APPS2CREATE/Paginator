@@ -5,11 +5,12 @@
 # Any lines starting with a # are optional, but their use is encouraged
 # To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
 #
+swift_version = 4.0
 
 Pod::Spec.new do |s|
   s.name             = 'Paginator'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of Paginator.'
+  s.summary          = 'Paginator - paging view'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +19,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+This is a top bar like android to paginate between viewControllers.
                        DESC
 
   s.homepage         = 'https://github.com/AdamsDevelopment/Paginator'
@@ -31,7 +32,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'Paginator/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'Paginator' => ['Paginator/Assets/*.png']
   # }
