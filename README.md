@@ -8,7 +8,7 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-====================================================================================================
+===============================================================================
 
 The controllers implemented in the pagingViewController do need to conform to the Pageable protocol.
 ```swift
@@ -68,6 +68,10 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'Paginator'
 ```
+
+## Contributing
+
+For those who want to contribute, please create feature branches on develop and create a Pull Request when done. We will work with a release 'Master' and beta 'Beta' branch.
 
 ## Author
 
