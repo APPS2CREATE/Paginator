@@ -71,7 +71,7 @@ pod 'ADPaginator'
 
 ## Contributing
 
-For those who want to contribute, please create feature branches on develop and create a Pull Request when done. We will work with a release 'Master' and beta 'Beta' branch.
+For those who want to contribute, please create feature branches on develop and create a Pull Request when done. We will work with a release 'master' and beta 'beta' branch.
 
 ## Author
 
